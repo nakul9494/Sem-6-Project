@@ -1,14 +1,14 @@
-# Search-Your-PDF-App
-Search Your PDF App using Langchain, ChromaDB, Sentence Transformers, and LaMiNi LM Model. This app is completely powered by Open Source Models.
+Search-Your-PDF App Overview
+The Search Your PDF app leverages powerful open-source models like Langchain, ChromaDB, Sentence Transformers, and the LaMini LM Model to enable efficient PDF searching and note-taking.
 
- 📌 Important Notice: Model Download Required
-This project includes all necessary files except for the LaMini-T5-738M model, which needs to be downloaded separately.
+📌 Important Notice: Model Download Required
+While this project includes all necessary components, the LaMini-T5-738M model must be downloaded separately.
 
-🔗 Download the model from Hugging Face:
-MBZUAI/LaMini-T5-738M
+🔗 How to Download the Model:
+Get the model from Hugging Face: LaMini-T5-738M - Hugging Face
 
-🔽 How to Add the Model to Your Project:
-Download the model files from the link above.
-Place the LaMini-T5-738M folder inside your project directory.
-Ensure the model path is correctly referenced in app.py.
-Now you're all set to run the AI-PDF Notes Taker! 🚀
+After downloading, place the LaMini-T5-738M folder into your project directory.
+
+Double-check that the model path is correctly set in your app.py file.
+
+Once this is done, you’re ready to start using the AI-PDF Notes Taker! 🚀
